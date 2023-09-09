@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: CommWhizz
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Unlock the Power of a successful community with CommWhizz!
+featuredImage: /assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
